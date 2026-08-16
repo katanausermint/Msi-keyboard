@@ -149,7 +149,7 @@ sudo apt-get install python3 python3-tk python3-usb dpkg-dev
 Build .deb Package
 
 ```bash
-./scripts/build_deb.sh
+./install.sh
 ```
 
 📖 Protocol Documentation
